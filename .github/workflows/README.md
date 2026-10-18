@@ -49,3 +49,5 @@ This workflow is manually triggered via the `workflow_dispatch` event to automat
 4. Packages and pushes the Helm chart.
 5. Branches and tags the repository.
 6. Opens a new Pull Request targeting `main` with the release checklist.
+
+demo
